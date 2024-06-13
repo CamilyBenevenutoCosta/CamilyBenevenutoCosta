@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1> <a href="https://git.io/typing-svg"><img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=600&size=21&duration=5001&pause=1000&color=FFB8B2&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hey%2Ceu+sou+a+Camily%2C+tudo+bem%3F" alt="Typing SVG" /></a>" alt="Typing SVG" /></a> </h1>
 
 <!--
 **CamilyBenevenutoCosta/CamilyBenevenutoCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
+<div>
+Loanding Snake Status
+</div>
+<div>
+  <picture align="center">    
+    <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-svg.svg">
+  </picture>
+</div>
